@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Akira👋
 
-Estudante de Ciência de Dados pela UNIVESP (previsão de formatura: 2030). Atualmente focado em aperfeiçoar o repertório direcionado em ciência de dados, como machine learning (classificação, regressão, validação de modelos), engenharia de dados e estatística para fins analíticos, aplicando tudo em projetos práticos com dados reais.
+Estudante de Ciência de Dados pela UNIVESP (previsão de formatura: 2030). Atualmente focado em aperfeiçoar o repertório direcionado em ciência de dados, como machine learning (classificação, regressão, validação de modelos), engenharia de dados e estatística para fins analíticos, aplicando em projetos com dados reais.
 
 ## 🛠️ Tecnologias & Ferramentas
 
